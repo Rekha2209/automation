@@ -6,6 +6,13 @@ public class GitPracticepract {
 	@Test
 	public static void practice() {
 		System.out.println("hi ");
+		
+		System.out.println("hi ");
+		
+		System.out.println("hi ");
+		
+		
+		System.out.println("hi ");
 
 	}
 }
